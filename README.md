@@ -23,10 +23,8 @@ This is a desktop + web-based AI assistant built with Python, using:
 ## 📸 Screenshots
 
 ### GUI Frontend:
-![GUI Screenshot](images/gui_screenshot.png)
+![image](https://github.com/user-attachments/assets/19bf796a-7976-4214-8da9-1c51e990625a)
 
-### Web Chat Interface:
-![Web Chat Screenshot](images/web_chat_screenshot.png)
 
 ---
 
